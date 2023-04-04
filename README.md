@@ -3,7 +3,7 @@
 <h2>Funcionalidades</h2>
 <p>A aplicação conta com as seguintes funcionalidades:</p>
 <ul>
-  <li>Cadastro do palestrante após seu loginlogin, visualização, edição e exclusão de palestrantes.</li>
+  <li>Cadastro do palestrante após seu login.</li>
   <li>Login e token de autenticação.</li>
   <li>Visualização dos palestrantes ou de um único palestrante.</li>
   <li>Edição e exclusão de palestrantes.</li>
